@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: staging  # kaynak adı
+    database: forward-dream-451119-q3  # BigQuery projenin ID'si
+    schema: taxi_data  # BigQuery şeması
