@@ -1,6 +1,6 @@
 Welcome to new dbt project! 
 
-### NY Taxi - Trip Data Analysis and Visualise
+### NY Taxi - Trip Data Analysis and Visualise Looker Studio
 
 
 
