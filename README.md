@@ -1,12 +1,8 @@
-Welcome to your new dbt project! NY Taxi - Trip Data Analysis
+Welcome to new dbt project! 
 
-### Using the starter project
+### NY Taxi - Trip Data Analysis and Visualise
 
-Try running the following commands:
-- dbt run
-- dbt test
 
-### Trip Analysis and Visualise
 
 <p align="center">
   <a href="">
