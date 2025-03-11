@@ -10,7 +10,7 @@ Try running the following commands:
 
 <p align="center">
   <a href="">
-    <img height="90" src="images/taxi_data_looker.png">
+    <img height="290" src="images/taxi_data_looker.png">
   </a>
 </p>
 
